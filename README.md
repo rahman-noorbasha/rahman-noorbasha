@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @rahman-noorbasha
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me rahmannoorbasha18@gmail.com
+👋 Hi, I’m Abdul Rahman
 
-<!---
-rahman-noorbasha/rahman-noorbasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m currently learning Python Full Stack Development
+
+🚀 Building real-world Python projects and strengthening backend development skills
+
+📚 Currently exploring APIs, file handling, object-oriented programming, and problem solving
+
+🤝 Open to collaboration on beginner-friendly Python projects
+
+🎯 Goal: Transition into a Software Development role
+
+📫 Reach me: [rahmannoorbasha18@gmail.com](mailto:rahmannoorbasha18@gmail.com)
